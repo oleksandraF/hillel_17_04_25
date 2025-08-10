@@ -1,1 +1,5 @@
-An example file for git
+An (change) example file for git
+
+add smth
+another line
+
