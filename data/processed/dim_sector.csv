@@ -1,0 +1,23 @@
+﻿sector_code,sector_name_en
+A,"A Agriculture, forestry and fishing"
+B,B Mining and quarrying
+C,C Manufacturing
+D,"D Electricity, gas, steam and air conditioning supply"
+E,"E Water supply/ sewerage, waste management and remediation activities"
+F,F Construction
+G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles
+H,H Transportation and storage
+I,I Accommodation and food service activities
+J,J Information and communication
+K,K Financial and insurance activities
+L,L Real estate activities
+M,"M Professional, scientific and technical activities"
+N,N Administrative and support service activities
+O,O Public administration and defence/ compulsory social security
+P,P Education
+Q,Q Human health and social work activities
+R,"R Arts, entertainment and recreation"
+S,S Other service activities
+T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use
+U,U Activities of extraterritorial organisations and bodies
+X,Unkown economic activity

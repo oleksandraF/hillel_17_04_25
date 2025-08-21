@@ -1,0 +1,461 @@
+﻿year,region_name_en,sector_code,sector_name_en,supply_self_employed,demand_score
+2017,Brussels-Capital region,A,"A Agriculture, forestry and fishing",384,0.0
+2017,Brussels-Capital region,B,B Mining and quarrying,13,0.0
+2017,Brussels-Capital region,C,C Manufacturing,3935,0.0
+2017,Brussels-Capital region,D,"D Electricity, gas, steam and air conditioning supply",229,0.0
+2017,Brussels-Capital region,E,"E Water supply/ sewerage, waste management and remediation activities",108,0.0
+2017,Brussels-Capital region,F,F Construction,15829,0.0
+2017,Brussels-Capital region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,21175,0.0
+2017,Brussels-Capital region,H,H Transportation and storage,4581,0.0
+2017,Brussels-Capital region,I,I Accommodation and food service activities,9536,0.0
+2017,Brussels-Capital region,J,J Information and communication,9038,0.0
+2017,Brussels-Capital region,K,K Financial and insurance activities,4385,0.0
+2017,Brussels-Capital region,L,L Real estate activities,8298,0.0
+2017,Brussels-Capital region,M,"M Professional, scientific and technical activities",33467,0.0
+2017,Brussels-Capital region,N,N Administrative and support service activities,8478,0.0
+2017,Brussels-Capital region,O,O Public administration and defence/ compulsory social security,402,0.0
+2017,Brussels-Capital region,P,P Education,3682,0.0
+2017,Brussels-Capital region,Q,Q Human health and social work activities,14438,0.0
+2017,Brussels-Capital region,R,"R Arts, entertainment and recreation",5660,0.0
+2017,Brussels-Capital region,S,S Other service activities,20375,0.0
+2017,Brussels-Capital region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,150,0.0
+2017,Brussels-Capital region,U,U Activities of extraterritorial organisations and bodies,19,0.0
+2017,Brussels-Capital region,X,Unkown economic activity,23,0.0
+2017,Flanders region,A,"A Agriculture, forestry and fishing",32521,0.0
+2017,Flanders region,B,B Mining and quarrying,84,0.0
+2017,Flanders region,C,C Manufacturing,35958,0.0
+2017,Flanders region,D,"D Electricity, gas, steam and air conditioning supply",748,0.0
+2017,Flanders region,E,"E Water supply/ sewerage, waste management and remediation activities",1170,0.0
+2017,Flanders region,F,F Construction,87220,0.0
+2017,Flanders region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,123476,0.0
+2017,Flanders region,H,H Transportation and storage,17306,0.0
+2017,Flanders region,I,I Accommodation and food service activities,44447,0.0
+2017,Flanders region,J,J Information and communication,32473,0.0
+2017,Flanders region,K,K Financial and insurance activities,17471,0.0
+2017,Flanders region,L,L Real estate activities,32777,0.0
+2017,Flanders region,M,"M Professional, scientific and technical activities",135000,0.0
+2017,Flanders region,N,N Administrative and support service activities,42635,0.0
+2017,Flanders region,O,O Public administration and defence/ compulsory social security,468,0.0
+2017,Flanders region,P,P Education,15036,0.0
+2017,Flanders region,Q,Q Human health and social work activities,70286,0.0
+2017,Flanders region,R,"R Arts, entertainment and recreation",32813,0.0
+2017,Flanders region,S,S Other service activities,71767,0.0
+2017,Flanders region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,381,0.0
+2017,Flanders region,U,U Activities of extraterritorial organisations and bodies,3,0.0
+2017,Flanders region,X,Unkown economic activity,100,0.0
+2017,Walloon region,A,"A Agriculture, forestry and fishing",21216,0.0
+2017,Walloon region,B,B Mining and quarrying,152,0.0
+2017,Walloon region,C,C Manufacturing,15398,0.0
+2017,Walloon region,D,"D Electricity, gas, steam and air conditioning supply",317,0.0
+2017,Walloon region,E,"E Water supply/ sewerage, waste management and remediation activities",762,0.0
+2017,Walloon region,F,F Construction,39222,0.0
+2017,Walloon region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,58229,0.0
+2017,Walloon region,H,H Transportation and storage,5632,0.0
+2017,Walloon region,I,I Accommodation and food service activities,20464,0.0
+2017,Walloon region,J,J Information and communication,12285,0.0
+2017,Walloon region,K,K Financial and insurance activities,7041,0.0
+2017,Walloon region,L,L Real estate activities,12312,0.0
+2017,Walloon region,M,"M Professional, scientific and technical activities",50651,0.0
+2017,Walloon region,N,N Administrative and support service activities,19350,0.0
+2017,Walloon region,O,O Public administration and defence/ compulsory social security,554,0.0
+2017,Walloon region,P,P Education,8213,0.0
+2017,Walloon region,Q,Q Human health and social work activities,47453,0.0
+2017,Walloon region,R,"R Arts, entertainment and recreation",13309,0.0
+2017,Walloon region,S,S Other service activities,40532,0.0
+2017,Walloon region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,138,0.0
+2017,Walloon region,X,Unkown economic activity,48,0.0
+2018,Brussels-Capital region,A,"A Agriculture, forestry and fishing",408,0.0
+2018,Brussels-Capital region,B,B Mining and quarrying,12,0.0
+2018,Brussels-Capital region,C,C Manufacturing,3959,0.0
+2018,Brussels-Capital region,D,"D Electricity, gas, steam and air conditioning supply",208,0.0
+2018,Brussels-Capital region,E,"E Water supply/ sewerage, waste management and remediation activities",113,0.0
+2018,Brussels-Capital region,F,F Construction,16271,0.0
+2018,Brussels-Capital region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,21071,0.0
+2018,Brussels-Capital region,H,H Transportation and storage,5137,0.0
+2018,Brussels-Capital region,I,I Accommodation and food service activities,9626,0.0
+2018,Brussels-Capital region,J,J Information and communication,9717,0.0
+2018,Brussels-Capital region,K,K Financial and insurance activities,4359,0.0
+2018,Brussels-Capital region,L,L Real estate activities,8500,0.0
+2018,Brussels-Capital region,M,"M Professional, scientific and technical activities",34787,0.0
+2018,Brussels-Capital region,N,N Administrative and support service activities,8622,0.0
+2018,Brussels-Capital region,O,O Public administration and defence/ compulsory social security,373,0.0
+2018,Brussels-Capital region,P,P Education,3881,0.0
+2018,Brussels-Capital region,Q,Q Human health and social work activities,14797,0.0
+2018,Brussels-Capital region,R,"R Arts, entertainment and recreation",6015,0.0
+2018,Brussels-Capital region,S,S Other service activities,21023,0.0
+2018,Brussels-Capital region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,150,0.0
+2018,Brussels-Capital region,U,U Activities of extraterritorial organisations and bodies,16,0.0
+2018,Brussels-Capital region,X,Unkown economic activity,142,0.0
+2018,Flanders region,A,"A Agriculture, forestry and fishing",33013,0.0
+2018,Flanders region,B,B Mining and quarrying,74,0.0
+2018,Flanders region,C,C Manufacturing,37054,0.0
+2018,Flanders region,D,"D Electricity, gas, steam and air conditioning supply",785,0.0
+2018,Flanders region,E,"E Water supply/ sewerage, waste management and remediation activities",1181,0.0
+2018,Flanders region,F,F Construction,90099,0.0
+2018,Flanders region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,124054,0.0
+2018,Flanders region,H,H Transportation and storage,18058,0.0
+2018,Flanders region,I,I Accommodation and food service activities,45047,0.0
+2018,Flanders region,J,J Information and communication,34513,0.0
+2018,Flanders region,K,K Financial and insurance activities,17211,0.0
+2018,Flanders region,L,L Real estate activities,33916,0.0
+2018,Flanders region,M,"M Professional, scientific and technical activities",141173,0.0
+2018,Flanders region,N,N Administrative and support service activities,45033,0.0
+2018,Flanders region,O,O Public administration and defence/ compulsory social security,465,0.0
+2018,Flanders region,P,P Education,16288,0.0
+2018,Flanders region,Q,Q Human health and social work activities,73010,0.0
+2018,Flanders region,R,"R Arts, entertainment and recreation",34359,0.0
+2018,Flanders region,S,S Other service activities,75454,0.0
+2018,Flanders region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,382,0.0
+2018,Flanders region,U,U Activities of extraterritorial organisations and bodies,4,0.0
+2018,Flanders region,X,Unkown economic activity,501,0.0
+2018,Walloon region,A,"A Agriculture, forestry and fishing",21431,0.0
+2018,Walloon region,B,B Mining and quarrying,159,0.0
+2018,Walloon region,C,C Manufacturing,15697,0.0
+2018,Walloon region,D,"D Electricity, gas, steam and air conditioning supply",321,0.0
+2018,Walloon region,E,"E Water supply/ sewerage, waste management and remediation activities",780,0.0
+2018,Walloon region,F,F Construction,39804,0.0
+2018,Walloon region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,58423,0.0
+2018,Walloon region,H,H Transportation and storage,5823,0.0
+2018,Walloon region,I,I Accommodation and food service activities,20617,0.0
+2018,Walloon region,J,J Information and communication,12928,0.0
+2018,Walloon region,K,K Financial and insurance activities,7057,0.0
+2018,Walloon region,L,L Real estate activities,12755,0.0
+2018,Walloon region,M,"M Professional, scientific and technical activities",52898,0.0
+2018,Walloon region,N,N Administrative and support service activities,19981,0.0
+2018,Walloon region,O,O Public administration and defence/ compulsory social security,592,0.0
+2018,Walloon region,P,P Education,8762,0.0
+2018,Walloon region,Q,Q Human health and social work activities,49281,0.0
+2018,Walloon region,R,"R Arts, entertainment and recreation",13918,0.0
+2018,Walloon region,S,S Other service activities,42004,0.0
+2018,Walloon region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,131,0.0
+2018,Walloon region,X,Unkown economic activity,135,0.0
+2019,Brussels-Capital region,A,"A Agriculture, forestry and fishing",434,0.0
+2019,Brussels-Capital region,B,B Mining and quarrying,15,0.0
+2019,Brussels-Capital region,C,C Manufacturing,4011,0.0
+2019,Brussels-Capital region,D,"D Electricity, gas, steam and air conditioning supply",190,0.0
+2019,Brussels-Capital region,E,"E Water supply/ sewerage, waste management and remediation activities",107,0.0
+2019,Brussels-Capital region,F,F Construction,16218,0.0
+2019,Brussels-Capital region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,21043,0.0
+2019,Brussels-Capital region,H,H Transportation and storage,5387,0.0
+2019,Brussels-Capital region,I,I Accommodation and food service activities,9708,0.0
+2019,Brussels-Capital region,J,J Information and communication,10381,0.0
+2019,Brussels-Capital region,K,K Financial and insurance activities,4471,0.0
+2019,Brussels-Capital region,L,L Real estate activities,8863,0.0
+2019,Brussels-Capital region,M,"M Professional, scientific and technical activities",36400,0.0
+2019,Brussels-Capital region,N,N Administrative and support service activities,8825,0.0
+2019,Brussels-Capital region,O,O Public administration and defence/ compulsory social security,371,0.0
+2019,Brussels-Capital region,P,P Education,4156,0.0
+2019,Brussels-Capital region,Q,Q Human health and social work activities,15675,0.0
+2019,Brussels-Capital region,R,"R Arts, entertainment and recreation",6453,0.0
+2019,Brussels-Capital region,S,S Other service activities,21784,0.0
+2019,Brussels-Capital region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,153,0.0
+2019,Brussels-Capital region,U,U Activities of extraterritorial organisations and bodies,15,0.0
+2019,Brussels-Capital region,X,Unkown economic activity,26,0.0
+2019,Flanders region,A,"A Agriculture, forestry and fishing",33656,0.0
+2019,Flanders region,B,B Mining and quarrying,72,0.0
+2019,Flanders region,C,C Manufacturing,38459,0.0
+2019,Flanders region,D,"D Electricity, gas, steam and air conditioning supply",946,0.0
+2019,Flanders region,E,"E Water supply/ sewerage, waste management and remediation activities",1312,0.0
+2019,Flanders region,F,F Construction,96524,0.0
+2019,Flanders region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,125870,0.0
+2019,Flanders region,H,H Transportation and storage,18989,0.0
+2019,Flanders region,I,I Accommodation and food service activities,45867,0.0
+2019,Flanders region,J,J Information and communication,36737,0.0
+2019,Flanders region,K,K Financial and insurance activities,17165,0.0
+2019,Flanders region,L,L Real estate activities,35484,0.0
+2019,Flanders region,M,"M Professional, scientific and technical activities",149697,0.0
+2019,Flanders region,N,N Administrative and support service activities,47833,0.0
+2019,Flanders region,O,O Public administration and defence/ compulsory social security,532,0.0
+2019,Flanders region,P,P Education,17665,0.0
+2019,Flanders region,Q,Q Human health and social work activities,77256,0.0
+2019,Flanders region,R,"R Arts, entertainment and recreation",36135,0.0
+2019,Flanders region,S,S Other service activities,79332,0.0
+2019,Flanders region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,379,0.0
+2019,Flanders region,U,U Activities of extraterritorial organisations and bodies,2,0.0
+2019,Flanders region,X,Unkown economic activity,98,0.0
+2019,Walloon region,A,"A Agriculture, forestry and fishing",21651,0.0
+2019,Walloon region,B,B Mining and quarrying,158,0.0
+2019,Walloon region,C,C Manufacturing,16370,0.0
+2019,Walloon region,D,"D Electricity, gas, steam and air conditioning supply",352,0.0
+2019,Walloon region,E,"E Water supply/ sewerage, waste management and remediation activities",844,0.0
+2019,Walloon region,F,F Construction,40834,0.0
+2019,Walloon region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,59057,0.0
+2019,Walloon region,H,H Transportation and storage,6003,0.0
+2019,Walloon region,I,I Accommodation and food service activities,20938,0.0
+2019,Walloon region,J,J Information and communication,13676,0.0
+2019,Walloon region,K,K Financial and insurance activities,7136,0.0
+2019,Walloon region,L,L Real estate activities,13665,0.0
+2019,Walloon region,M,"M Professional, scientific and technical activities",55725,0.0
+2019,Walloon region,N,N Administrative and support service activities,21164,0.0
+2019,Walloon region,O,O Public administration and defence/ compulsory social security,564,0.0
+2019,Walloon region,P,P Education,9375,0.0
+2019,Walloon region,Q,Q Human health and social work activities,51711,0.0
+2019,Walloon region,R,"R Arts, entertainment and recreation",14985,0.0
+2019,Walloon region,S,S Other service activities,44373,0.0
+2019,Walloon region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,125,0.0
+2019,Walloon region,U,U Activities of extraterritorial organisations and bodies,2,0.0
+2019,Walloon region,X,Unkown economic activity,73,0.0
+2020,Brussels-Capital region,A,"A Agriculture, forestry and fishing",426,0.0
+2020,Brussels-Capital region,B,B Mining and quarrying,16,0.0
+2020,Brussels-Capital region,C,C Manufacturing,4014,0.0
+2020,Brussels-Capital region,D,"D Electricity, gas, steam and air conditioning supply",158,0.0
+2020,Brussels-Capital region,E,"E Water supply/ sewerage, waste management and remediation activities",135,0.0
+2020,Brussels-Capital region,F,F Construction,16612,0.0
+2020,Brussels-Capital region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,21259,0.0
+2020,Brussels-Capital region,H,H Transportation and storage,5539,0.0
+2020,Brussels-Capital region,I,I Accommodation and food service activities,10001,0.0
+2020,Brussels-Capital region,J,J Information and communication,10886,0.0
+2020,Brussels-Capital region,K,K Financial and insurance activities,4683,0.0
+2020,Brussels-Capital region,L,L Real estate activities,9162,0.0
+2020,Brussels-Capital region,M,"M Professional, scientific and technical activities",37637,0.0
+2020,Brussels-Capital region,N,N Administrative and support service activities,8942,0.0
+2020,Brussels-Capital region,O,O Public administration and defence/ compulsory social security,443,0.0
+2020,Brussels-Capital region,P,P Education,4354,0.0
+2020,Brussels-Capital region,Q,Q Human health and social work activities,16328,0.0
+2020,Brussels-Capital region,R,"R Arts, entertainment and recreation",6650,0.0
+2020,Brussels-Capital region,S,S Other service activities,22031,0.0
+2020,Brussels-Capital region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,158,0.0
+2020,Brussels-Capital region,U,U Activities of extraterritorial organisations and bodies,24,0.0
+2020,Brussels-Capital region,X,Unkown economic activity,26,0.0
+2020,Flanders region,A,"A Agriculture, forestry and fishing",34050,0.0
+2020,Flanders region,B,B Mining and quarrying,75,0.0
+2020,Flanders region,C,C Manufacturing,39662,0.0
+2020,Flanders region,D,"D Electricity, gas, steam and air conditioning supply",918,0.0
+2020,Flanders region,E,"E Water supply/ sewerage, waste management and remediation activities",1336,0.0
+2020,Flanders region,F,F Construction,104756,0.0
+2020,Flanders region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,129234,0.0
+2020,Flanders region,H,H Transportation and storage,19529,0.0
+2020,Flanders region,I,I Accommodation and food service activities,47802,0.0
+2020,Flanders region,J,J Information and communication,38793,0.0
+2020,Flanders region,K,K Financial and insurance activities,18904,0.0
+2020,Flanders region,L,L Real estate activities,37088,0.0
+2020,Flanders region,M,"M Professional, scientific and technical activities",157928,0.0
+2020,Flanders region,N,N Administrative and support service activities,48064,0.0
+2020,Flanders region,O,O Public administration and defence/ compulsory social security,477,0.0
+2020,Flanders region,P,P Education,18866,0.0
+2020,Flanders region,Q,Q Human health and social work activities,81114,0.0
+2020,Flanders region,R,"R Arts, entertainment and recreation",36947,0.0
+2020,Flanders region,S,S Other service activities,81028,0.0
+2020,Flanders region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,445,0.0
+2020,Flanders region,U,U Activities of extraterritorial organisations and bodies,2,0.0
+2020,Flanders region,X,Unkown economic activity,89,0.0
+2020,Walloon region,A,"A Agriculture, forestry and fishing",21796,0.0
+2020,Walloon region,B,B Mining and quarrying,143,0.0
+2020,Walloon region,C,C Manufacturing,16827,0.0
+2020,Walloon region,D,"D Electricity, gas, steam and air conditioning supply",336,0.0
+2020,Walloon region,E,"E Water supply/ sewerage, waste management and remediation activities",802,0.0
+2020,Walloon region,F,F Construction,42219,0.0
+2020,Walloon region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,60647,0.0
+2020,Walloon region,H,H Transportation and storage,5993,0.0
+2020,Walloon region,I,I Accommodation and food service activities,21270,0.0
+2020,Walloon region,J,J Information and communication,14193,0.0
+2020,Walloon region,K,K Financial and insurance activities,7395,0.0
+2020,Walloon region,L,L Real estate activities,14372,0.0
+2020,Walloon region,M,"M Professional, scientific and technical activities",57625,0.0
+2020,Walloon region,N,N Administrative and support service activities,21308,0.0
+2020,Walloon region,O,O Public administration and defence/ compulsory social security,450,0.0
+2020,Walloon region,P,P Education,9915,0.0
+2020,Walloon region,Q,Q Human health and social work activities,53690,0.0
+2020,Walloon region,R,"R Arts, entertainment and recreation",15142,0.0
+2020,Walloon region,S,S Other service activities,44562,0.0
+2020,Walloon region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,136,0.0
+2020,Walloon region,U,U Activities of extraterritorial organisations and bodies,2,0.0
+2020,Walloon region,X,Unkown economic activity,29,0.0
+2021,Brussels-Capital region,A,"A Agriculture, forestry and fishing",435,0.0
+2021,Brussels-Capital region,B,B Mining and quarrying,13,0.0
+2021,Brussels-Capital region,C,C Manufacturing,3996,0.0
+2021,Brussels-Capital region,D,"D Electricity, gas, steam and air conditioning supply",171,0.0
+2021,Brussels-Capital region,E,"E Water supply/ sewerage, waste management and remediation activities",130,0.0
+2021,Brussels-Capital region,F,F Construction,16491,0.0
+2021,Brussels-Capital region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,21281,0.0
+2021,Brussels-Capital region,H,H Transportation and storage,5737,0.0
+2021,Brussels-Capital region,I,I Accommodation and food service activities,10058,0.0
+2021,Brussels-Capital region,J,J Information and communication,11331,0.0
+2021,Brussels-Capital region,K,K Financial and insurance activities,4719,0.0
+2021,Brussels-Capital region,L,L Real estate activities,9235,0.0
+2021,Brussels-Capital region,M,"M Professional, scientific and technical activities",39037,0.0
+2021,Brussels-Capital region,N,N Administrative and support service activities,9096,0.0
+2021,Brussels-Capital region,O,O Public administration and defence/ compulsory social security,435,0.0
+2021,Brussels-Capital region,P,P Education,4527,0.0
+2021,Brussels-Capital region,Q,Q Human health and social work activities,17215,0.0
+2021,Brussels-Capital region,R,"R Arts, entertainment and recreation",6984,0.0
+2021,Brussels-Capital region,S,S Other service activities,22661,0.0
+2021,Brussels-Capital region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,155,0.0
+2021,Brussels-Capital region,U,U Activities of extraterritorial organisations and bodies,26,0.0
+2021,Brussels-Capital region,X,Unkown economic activity,39,0.0
+2021,Flanders region,A,"A Agriculture, forestry and fishing",34351,0.0
+2021,Flanders region,B,B Mining and quarrying,67,0.0
+2021,Flanders region,C,C Manufacturing,41093,0.0
+2021,Flanders region,D,"D Electricity, gas, steam and air conditioning supply",900,0.0
+2021,Flanders region,E,"E Water supply/ sewerage, waste management and remediation activities",1396,0.0
+2021,Flanders region,F,F Construction,112023,0.0
+2021,Flanders region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,132501,0.0
+2021,Flanders region,H,H Transportation and storage,20510,0.0
+2021,Flanders region,I,I Accommodation and food service activities,49254,0.0
+2021,Flanders region,J,J Information and communication,41096,0.0
+2021,Flanders region,K,K Financial and insurance activities,19024,0.0
+2021,Flanders region,L,L Real estate activities,38135,0.0
+2021,Flanders region,M,"M Professional, scientific and technical activities",165156,0.0
+2021,Flanders region,N,N Administrative and support service activities,50845,0.0
+2021,Flanders region,O,O Public administration and defence/ compulsory social security,477,0.0
+2021,Flanders region,P,P Education,20226,0.0
+2021,Flanders region,Q,Q Human health and social work activities,85459,0.0
+2021,Flanders region,R,"R Arts, entertainment and recreation",38393,0.0
+2021,Flanders region,S,S Other service activities,83686,0.0
+2021,Flanders region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,512,0.0
+2021,Flanders region,U,U Activities of extraterritorial organisations and bodies,2,0.0
+2021,Flanders region,X,Unkown economic activity,127,0.0
+2021,Walloon region,A,"A Agriculture, forestry and fishing",22098,0.0
+2021,Walloon region,B,B Mining and quarrying,158,0.0
+2021,Walloon region,C,C Manufacturing,17539,0.0
+2021,Walloon region,D,"D Electricity, gas, steam and air conditioning supply",376,0.0
+2021,Walloon region,E,"E Water supply/ sewerage, waste management and remediation activities",795,0.0
+2021,Walloon region,F,F Construction,44309,0.0
+2021,Walloon region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,62662,0.0
+2021,Walloon region,H,H Transportation and storage,6170,0.0
+2021,Walloon region,I,I Accommodation and food service activities,21962,0.0
+2021,Walloon region,J,J Information and communication,15029,0.0
+2021,Walloon region,K,K Financial and insurance activities,7437,0.0
+2021,Walloon region,L,L Real estate activities,15255,0.0
+2021,Walloon region,M,"M Professional, scientific and technical activities",60862,0.0
+2021,Walloon region,N,N Administrative and support service activities,22608,0.0
+2021,Walloon region,O,O Public administration and defence/ compulsory social security,451,0.0
+2021,Walloon region,P,P Education,10703,0.0
+2021,Walloon region,Q,Q Human health and social work activities,57082,0.0
+2021,Walloon region,R,"R Arts, entertainment and recreation",15703,0.0
+2021,Walloon region,S,S Other service activities,46106,0.0
+2021,Walloon region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,141,0.0
+2021,Walloon region,U,U Activities of extraterritorial organisations and bodies,2,0.0
+2021,Walloon region,X,Unkown economic activity,58,0.0
+2022,Brussels-Capital region,A,"A Agriculture, forestry and fishing",416,1.0
+2022,Brussels-Capital region,B,B Mining and quarrying,11,0.0
+2022,Brussels-Capital region,C,C Manufacturing,4001,1.0
+2022,Brussels-Capital region,D,"D Electricity, gas, steam and air conditioning supply",203,0.0
+2022,Brussels-Capital region,E,"E Water supply/ sewerage, waste management and remediation activities",129,0.0
+2022,Brussels-Capital region,F,F Construction,16277,1.0
+2022,Brussels-Capital region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,20941,0.6666666666666666
+2022,Brussels-Capital region,H,H Transportation and storage,5945,0.6
+2022,Brussels-Capital region,I,I Accommodation and food service activities,9949,0.75
+2022,Brussels-Capital region,J,J Information and communication,11817,0.6666666666666666
+2022,Brussels-Capital region,K,K Financial and insurance activities,4596,1.0
+2022,Brussels-Capital region,L,L Real estate activities,9198,1.0
+2022,Brussels-Capital region,M,"M Professional, scientific and technical activities",40198,1.0
+2022,Brussels-Capital region,N,N Administrative and support service activities,9194,1.0
+2022,Brussels-Capital region,O,O Public administration and defence/ compulsory social security,504,1.0
+2022,Brussels-Capital region,P,P Education,4699,0.6666666666666666
+2022,Brussels-Capital region,Q,Q Human health and social work activities,17931,0.7142857142857143
+2022,Brussels-Capital region,R,"R Arts, entertainment and recreation",7213,1.0
+2022,Brussels-Capital region,S,S Other service activities,22940,0.3333333333333333
+2022,Brussels-Capital region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,153,0.0
+2022,Brussels-Capital region,U,U Activities of extraterritorial organisations and bodies,29,0.0
+2022,Brussels-Capital region,X,Unkown economic activity,77,0.0
+2022,Flanders region,A,"A Agriculture, forestry and fishing",34478,1.0
+2022,Flanders region,B,B Mining and quarrying,73,0.0
+2022,Flanders region,C,C Manufacturing,41823,1.0
+2022,Flanders region,D,"D Electricity, gas, steam and air conditioning supply",932,0.0
+2022,Flanders region,E,"E Water supply/ sewerage, waste management and remediation activities",1447,0.0
+2022,Flanders region,F,F Construction,117497,1.0
+2022,Flanders region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,132322,0.6666666666666666
+2022,Flanders region,H,H Transportation and storage,21157,0.6
+2022,Flanders region,I,I Accommodation and food service activities,50182,0.75
+2022,Flanders region,J,J Information and communication,43384,0.6666666666666666
+2022,Flanders region,K,K Financial and insurance activities,19020,1.0
+2022,Flanders region,L,L Real estate activities,38809,1.0
+2022,Flanders region,M,"M Professional, scientific and technical activities",173020,1.0
+2022,Flanders region,N,N Administrative and support service activities,53648,1.0
+2022,Flanders region,O,O Public administration and defence/ compulsory social security,540,1.0
+2022,Flanders region,P,P Education,21155,0.6666666666666666
+2022,Flanders region,Q,Q Human health and social work activities,88905,0.7142857142857143
+2022,Flanders region,R,"R Arts, entertainment and recreation",40163,1.0
+2022,Flanders region,S,S Other service activities,85186,0.3333333333333333
+2022,Flanders region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,547,0.0
+2022,Flanders region,U,U Activities of extraterritorial organisations and bodies,3,0.0
+2022,Flanders region,X,Unkown economic activity,239,0.0
+2022,Walloon region,A,"A Agriculture, forestry and fishing",22256,1.0
+2022,Walloon region,B,B Mining and quarrying,160,0.0
+2022,Walloon region,C,C Manufacturing,18009,1.0
+2022,Walloon region,D,"D Electricity, gas, steam and air conditioning supply",376,0.0
+2022,Walloon region,E,"E Water supply/ sewerage, waste management and remediation activities",805,0.0
+2022,Walloon region,F,F Construction,45499,1.0
+2022,Walloon region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,62479,0.6666666666666666
+2022,Walloon region,H,H Transportation and storage,6195,0.6
+2022,Walloon region,I,I Accommodation and food service activities,22410,0.75
+2022,Walloon region,J,J Information and communication,15636,0.6666666666666666
+2022,Walloon region,K,K Financial and insurance activities,7420,1.0
+2022,Walloon region,L,L Real estate activities,15770,1.0
+2022,Walloon region,M,"M Professional, scientific and technical activities",63628,1.0
+2022,Walloon region,N,N Administrative and support service activities,23504,1.0
+2022,Walloon region,O,O Public administration and defence/ compulsory social security,480,1.0
+2022,Walloon region,P,P Education,11129,0.6666666666666666
+2022,Walloon region,Q,Q Human health and social work activities,59709,0.7142857142857143
+2022,Walloon region,R,"R Arts, entertainment and recreation",16415,1.0
+2022,Walloon region,S,S Other service activities,47056,0.3333333333333333
+2022,Walloon region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,139,0.0
+2022,Walloon region,U,U Activities of extraterritorial organisations and bodies,3,0.0
+2022,Walloon region,X,Unkown economic activity,137,0.0
+2023,Brussels-Capital region,A,"A Agriculture, forestry and fishing",421,1.0
+2023,Brussels-Capital region,B,B Mining and quarrying,9,0.0
+2023,Brussels-Capital region,C,C Manufacturing,4303,1.0
+2023,Brussels-Capital region,D,"D Electricity, gas, steam and air conditioning supply",203,0.0
+2023,Brussels-Capital region,E,"E Water supply/ sewerage, waste management and remediation activities",135,0.0
+2023,Brussels-Capital region,F,F Construction,17131,1.0
+2023,Brussels-Capital region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,22648,1.0
+2023,Brussels-Capital region,H,H Transportation and storage,6749,0.5
+2023,Brussels-Capital region,I,I Accommodation and food service activities,10931,0.2857142857142857
+2023,Brussels-Capital region,J,J Information and communication,12952,1.0
+2023,Brussels-Capital region,K,K Financial and insurance activities,4713,1.0
+2023,Brussels-Capital region,L,L Real estate activities,10004,1.0
+2023,Brussels-Capital region,M,"M Professional, scientific and technical activities",44468,1.0
+2023,Brussels-Capital region,N,N Administrative and support service activities,9866,1.0
+2023,Brussels-Capital region,O,O Public administration and defence/ compulsory social security,555,1.0
+2023,Brussels-Capital region,P,P Education,4967,0.6666666666666666
+2023,Brussels-Capital region,Q,Q Human health and social work activities,19707,1.0
+2023,Brussels-Capital region,R,"R Arts, entertainment and recreation",7702,1.0
+2023,Brussels-Capital region,S,S Other service activities,23648,1.0
+2023,Brussels-Capital region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,163,0.0
+2023,Brussels-Capital region,U,U Activities of extraterritorial organisations and bodies,30,0.0
+2023,Brussels-Capital region,X,Unkown economic activity,113,0.0
+2023,Flanders region,A,"A Agriculture, forestry and fishing",36026,1.0
+2023,Flanders region,B,B Mining and quarrying,79,0.0
+2023,Flanders region,C,C Manufacturing,45872,1.0
+2023,Flanders region,D,"D Electricity, gas, steam and air conditioning supply",1091,0.0
+2023,Flanders region,E,"E Water supply/ sewerage, waste management and remediation activities",1564,0.0
+2023,Flanders region,F,F Construction,133605,1.0
+2023,Flanders region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,144866,1.0
+2023,Flanders region,H,H Transportation and storage,24012,0.5
+2023,Flanders region,I,I Accommodation and food service activities,55609,0.2857142857142857
+2023,Flanders region,J,J Information and communication,49840,1.0
+2023,Flanders region,K,K Financial and insurance activities,20523,1.0
+2023,Flanders region,L,L Real estate activities,44285,1.0
+2023,Flanders region,M,"M Professional, scientific and technical activities",198997,1.0
+2023,Flanders region,N,N Administrative and support service activities,59687,1.0
+2023,Flanders region,O,O Public administration and defence/ compulsory social security,557,1.0
+2023,Flanders region,P,P Education,22316,0.6666666666666666
+2023,Flanders region,Q,Q Human health and social work activities,97338,1.0
+2023,Flanders region,R,"R Arts, entertainment and recreation",43025,1.0
+2023,Flanders region,S,S Other service activities,88259,1.0
+2023,Flanders region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,585,0.0
+2023,Flanders region,U,U Activities of extraterritorial organisations and bodies,4,0.0
+2023,Flanders region,X,Unkown economic activity,387,0.0
+2023,Walloon region,A,"A Agriculture, forestry and fishing",23362,1.0
+2023,Walloon region,B,B Mining and quarrying,165,0.0
+2023,Walloon region,C,C Manufacturing,19528,1.0
+2023,Walloon region,D,"D Electricity, gas, steam and air conditioning supply",386,0.0
+2023,Walloon region,E,"E Water supply/ sewerage, waste management and remediation activities",859,0.0
+2023,Walloon region,F,F Construction,51289,1.0
+2023,Walloon region,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,67324,1.0
+2023,Walloon region,H,H Transportation and storage,6812,0.5
+2023,Walloon region,I,I Accommodation and food service activities,24894,0.2857142857142857
+2023,Walloon region,J,J Information and communication,17499,1.0
+2023,Walloon region,K,K Financial and insurance activities,8108,1.0
+2023,Walloon region,L,L Real estate activities,18526,1.0
+2023,Walloon region,M,"M Professional, scientific and technical activities",72158,1.0
+2023,Walloon region,N,N Administrative and support service activities,25889,1.0
+2023,Walloon region,O,O Public administration and defence/ compulsory social security,503,1.0
+2023,Walloon region,P,P Education,11761,0.6666666666666666
+2023,Walloon region,Q,Q Human health and social work activities,65807,1.0
+2023,Walloon region,R,"R Arts, entertainment and recreation",17530,1.0
+2023,Walloon region,S,S Other service activities,48846,1.0
+2023,Walloon region,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,130,0.0
+2023,Walloon region,U,U Activities of extraterritorial organisations and bodies,3,0.0
+2023,Walloon region,X,Unkown economic activity,190,0.0
