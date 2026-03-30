@@ -1,0 +1,155 @@
+﻿year,sector_code,sector_name_en,supply_self_employed,demand_score
+2017,A,"A Agriculture, forestry and fishing",54121,0.0
+2017,B,B Mining and quarrying,249,0.0
+2017,C,C Manufacturing,55291,0.0
+2017,D,"D Electricity, gas, steam and air conditioning supply",1294,0.0
+2017,E,"E Water supply/ sewerage, waste management and remediation activities",2040,0.0
+2017,F,F Construction,142271,0.0
+2017,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,202880,0.0
+2017,H,H Transportation and storage,27519,0.0
+2017,I,I Accommodation and food service activities,74447,0.0
+2017,J,J Information and communication,53796,0.0
+2017,K,K Financial and insurance activities,28897,0.0
+2017,L,L Real estate activities,53387,0.0
+2017,M,"M Professional, scientific and technical activities",219118,0.0
+2017,N,N Administrative and support service activities,70463,0.0
+2017,O,O Public administration and defence/ compulsory social security,1424,0.0
+2017,P,P Education,26931,0.0
+2017,Q,Q Human health and social work activities,132177,0.0
+2017,R,"R Arts, entertainment and recreation",51782,0.0
+2017,S,S Other service activities,132674,0.0
+2017,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,669,0.0
+2017,U,U Activities of extraterritorial organisations and bodies,22,0.0
+2017,X,Unkown economic activity,171,0.0
+2018,A,"A Agriculture, forestry and fishing",54852,0.0
+2018,B,B Mining and quarrying,245,0.0
+2018,C,C Manufacturing,56710,0.0
+2018,D,"D Electricity, gas, steam and air conditioning supply",1314,0.0
+2018,E,"E Water supply/ sewerage, waste management and remediation activities",2074,0.0
+2018,F,F Construction,146174,0.0
+2018,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,203548,0.0
+2018,H,H Transportation and storage,29018,0.0
+2018,I,I Accommodation and food service activities,75290,0.0
+2018,J,J Information and communication,57158,0.0
+2018,K,K Financial and insurance activities,28627,0.0
+2018,L,L Real estate activities,55171,0.0
+2018,M,"M Professional, scientific and technical activities",228858,0.0
+2018,N,N Administrative and support service activities,73636,0.0
+2018,O,O Public administration and defence/ compulsory social security,1430,0.0
+2018,P,P Education,28931,0.0
+2018,Q,Q Human health and social work activities,137088,0.0
+2018,R,"R Arts, entertainment and recreation",54292,0.0
+2018,S,S Other service activities,138481,0.0
+2018,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,663,0.0
+2018,U,U Activities of extraterritorial organisations and bodies,20,0.0
+2018,X,Unkown economic activity,778,0.0
+2019,A,"A Agriculture, forestry and fishing",55741,0.0
+2019,B,B Mining and quarrying,245,0.0
+2019,C,C Manufacturing,58840,0.0
+2019,D,"D Electricity, gas, steam and air conditioning supply",1488,0.0
+2019,E,"E Water supply/ sewerage, waste management and remediation activities",2263,0.0
+2019,F,F Construction,153576,0.0
+2019,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,205970,0.0
+2019,H,H Transportation and storage,30379,0.0
+2019,I,I Accommodation and food service activities,76513,0.0
+2019,J,J Information and communication,60794,0.0
+2019,K,K Financial and insurance activities,28772,0.0
+2019,L,L Real estate activities,58012,0.0
+2019,M,"M Professional, scientific and technical activities",241822,0.0
+2019,N,N Administrative and support service activities,77822,0.0
+2019,O,O Public administration and defence/ compulsory social security,1467,0.0
+2019,P,P Education,31196,0.0
+2019,Q,Q Human health and social work activities,144642,0.0
+2019,R,"R Arts, entertainment and recreation",57573,0.0
+2019,S,S Other service activities,145489,0.0
+2019,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,657,0.0
+2019,U,U Activities of extraterritorial organisations and bodies,19,0.0
+2019,X,Unkown economic activity,197,0.0
+2020,A,"A Agriculture, forestry and fishing",56272,0.0
+2020,B,B Mining and quarrying,234,0.0
+2020,C,C Manufacturing,60503,0.0
+2020,D,"D Electricity, gas, steam and air conditioning supply",1412,0.0
+2020,E,"E Water supply/ sewerage, waste management and remediation activities",2273,0.0
+2020,F,F Construction,163587,0.0
+2020,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,211140,0.0
+2020,H,H Transportation and storage,31061,0.0
+2020,I,I Accommodation and food service activities,79073,0.0
+2020,J,J Information and communication,63872,0.0
+2020,K,K Financial and insurance activities,30982,0.0
+2020,L,L Real estate activities,60622,0.0
+2020,M,"M Professional, scientific and technical activities",253190,0.0
+2020,N,N Administrative and support service activities,78314,0.0
+2020,O,O Public administration and defence/ compulsory social security,1370,0.0
+2020,P,P Education,33135,0.0
+2020,Q,Q Human health and social work activities,151132,0.0
+2020,R,"R Arts, entertainment and recreation",58739,0.0
+2020,S,S Other service activities,147621,0.0
+2020,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,739,0.0
+2020,U,U Activities of extraterritorial organisations and bodies,28,0.0
+2020,X,Unkown economic activity,144,0.0
+2021,A,"A Agriculture, forestry and fishing",56884,0.0
+2021,B,B Mining and quarrying,238,0.0
+2021,C,C Manufacturing,62628,0.0
+2021,D,"D Electricity, gas, steam and air conditioning supply",1447,0.0
+2021,E,"E Water supply/ sewerage, waste management and remediation activities",2321,0.0
+2021,F,F Construction,172823,0.0
+2021,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,216444,0.0
+2021,H,H Transportation and storage,32417,0.0
+2021,I,I Accommodation and food service activities,81274,0.0
+2021,J,J Information and communication,67456,0.0
+2021,K,K Financial and insurance activities,31180,0.0
+2021,L,L Real estate activities,62625,0.0
+2021,M,"M Professional, scientific and technical activities",265055,0.0
+2021,N,N Administrative and support service activities,82549,0.0
+2021,O,O Public administration and defence/ compulsory social security,1363,0.0
+2021,P,P Education,35456,0.0
+2021,Q,Q Human health and social work activities,159756,0.0
+2021,R,"R Arts, entertainment and recreation",61080,0.0
+2021,S,S Other service activities,152453,0.0
+2021,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,808,0.0
+2021,U,U Activities of extraterritorial organisations and bodies,30,0.0
+2021,X,Unkown economic activity,224,0.0
+2022,A,"A Agriculture, forestry and fishing",57150,1.0
+2022,B,B Mining and quarrying,244,0.0
+2022,C,C Manufacturing,63833,1.0
+2022,D,"D Electricity, gas, steam and air conditioning supply",1511,0.0
+2022,E,"E Water supply/ sewerage, waste management and remediation activities",2381,0.0
+2022,F,F Construction,179273,1.0
+2022,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,215742,0.6666666666666666
+2022,H,H Transportation and storage,33297,0.6
+2022,I,I Accommodation and food service activities,82541,0.75
+2022,J,J Information and communication,70837,0.6666666666666666
+2022,K,K Financial and insurance activities,31036,1.0
+2022,L,L Real estate activities,63777,1.0
+2022,M,"M Professional, scientific and technical activities",276846,1.0
+2022,N,N Administrative and support service activities,86346,1.0
+2022,O,O Public administration and defence/ compulsory social security,1524,1.0
+2022,P,P Education,36983,0.6666666666666666
+2022,Q,Q Human health and social work activities,166545,0.7142857142857143
+2022,R,"R Arts, entertainment and recreation",63791,1.0
+2022,S,S Other service activities,155182,0.3333333333333333
+2022,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,839,0.0
+2022,U,U Activities of extraterritorial organisations and bodies,35,0.0
+2022,X,Unkown economic activity,453,0.0
+2023,A,"A Agriculture, forestry and fishing",59809,1.0
+2023,B,B Mining and quarrying,253,0.0
+2023,C,C Manufacturing,69703,1.0
+2023,D,"D Electricity, gas, steam and air conditioning supply",1680,0.0
+2023,E,"E Water supply/ sewerage, waste management and remediation activities",2558,0.0
+2023,F,F Construction,202025,1.0
+2023,G,G Wholesale and retail trade/ repair of motor vehicles and motorcycles,234838,1.0
+2023,H,H Transportation and storage,37573,0.5
+2023,I,I Accommodation and food service activities,91434,0.2857142857142857
+2023,J,J Information and communication,80291,1.0
+2023,K,K Financial and insurance activities,33344,1.0
+2023,L,L Real estate activities,72815,1.0
+2023,M,"M Professional, scientific and technical activities",315623,1.0
+2023,N,N Administrative and support service activities,95442,1.0
+2023,O,O Public administration and defence/ compulsory social security,1615,1.0
+2023,P,P Education,39044,0.6666666666666666
+2023,Q,Q Human health and social work activities,182852,1.0
+2023,R,"R Arts, entertainment and recreation",68257,1.0
+2023,S,S Other service activities,160753,1.0
+2023,T,T Activities of households as employers/ undifferentiated goods- and services-producing activities of households for own use,878,0.0
+2023,U,U Activities of extraterritorial organisations and bodies,37,0.0
+2023,X,Unkown economic activity,690,0.0
